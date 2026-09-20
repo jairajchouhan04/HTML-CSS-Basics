@@ -1,0 +1,40 @@
+Text & Headings — MUST KNOW
+
+<h1>Main Heading</h1>
+<h2>Section</h2>
+<h3>Subsection</h3>
+
+<p>This is a paragraph.</p>
+
+<strong>Important</strong>
+<em>Emphasized</em>
+
+
+
+Tag	            Purpose
+
+<h1> – <h6>	    Headings
+<p>	            Paragraph
+<br>	        Line break
+<hr>	        Horizontal/thematic line
+<strong>	    Strong importance
+<em>	        Emphasis
+<b>	            Bold stylistic text
+<i>         	Italic stylistic text
+<u>         	Underlined text
+<s>	            No-longer-accurate/relevant text
+<small>	        Smaller text
+<mark>	        Highlighted text
+<sub>	        Subscript
+<sup>	        Superscript
+<del>	        Deleted text
+<ins>	        Inserted text
+<abbr>	        Abbreviation
+<cite>	        Citation/title of work
+<q>	            Short quotation
+<blockquote>    Long quotation
+<code>      	Inline code
+<pre>	        Preformatted text
+<kbd>	        Keyboard input
+<samp>	        Sample program output
+<var>	        Variable
